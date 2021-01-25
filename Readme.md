@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Felix Karpov](https://up.htmlacademy.ru/htmlcss/30/user/1701601).
-* Наставник: `Неизвестно`.
+* Наставник: `Aslan Berezgov`.
 
 ---
 
